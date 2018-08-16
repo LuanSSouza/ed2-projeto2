@@ -1,0 +1,7 @@
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\bin\Debug\projExemplo2.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\bin\Debug\projExemplo2.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\obj\x86\Debug\projExemplo2.Form1.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\obj\x86\Debug\projExemplo2.Properties.Resources.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\obj\x86\Debug\projExemplo2.csproj.GenerateResource.Cache
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\obj\x86\Debug\projExemplo2.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projExemplo2\projExemplo2\obj\x86\Debug\projExemplo2.pdb
